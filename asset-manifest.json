@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_app_geohtmp_gh/static/css/main.ee7c2925.css",
+    "main.js": "/react_app_geohtmp_gh/static/js/main.a4c7bf17.js",
+    "static/media/Data visualization files_all_in_one.csv": "/react_app_geohtmp_gh/static/media/Data visualization files_all_in_one.5b4ba869772e07aeee2d.csv",
+    "index.html": "/react_app_geohtmp_gh/index.html",
+    "main.ee7c2925.css.map": "/react_app_geohtmp_gh/static/css/main.ee7c2925.css.map",
+    "main.a4c7bf17.js.map": "/react_app_geohtmp_gh/static/js/main.a4c7bf17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7c2925.css",
+    "static/js/main.a4c7bf17.js"
+  ]
+}
